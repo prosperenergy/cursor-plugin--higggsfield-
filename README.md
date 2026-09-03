@@ -2,6 +2,11 @@
 
 Generate images, videos, and complete creative workflows using Higgsfield MCP from Cursor.
 
+## Repository guardrail
+
+- Keep this repository's bot implementation based on Grok bots.
+- Do not introduce non-Grok bot providers as implementation replacements.
+
 ## Installation
 
 ### Cursor Marketplace
